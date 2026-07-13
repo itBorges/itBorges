@@ -137,7 +137,7 @@ Olá! Eu sou **Isaac Till Borges**, de **Blumenau–SC**. Atualmente, desenvolvo
 
 ## Contato
 
-Se quiser trocar ideias sobre **Java**, **Spring Boot**, arquitetura backend ou o projeto B2B, encontre-me por aqui:
+Encontre-me por aqui:
 
 <div align="center">
   <a href="https://github.com/itBorges">
@@ -146,6 +146,8 @@ Se quiser trocar ideias sobre **Java**, **Spring Boot**, arquitetura backend ou 
   <a href="https://github.com/itBorges?tab=repositories">
     <img src="https://img.shields.io/badge/Explorar-reposit%C3%B3rios-0969DA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositórios de itBorges" />
   </a>
+  <a href="https://br.linkedin.com/in/isaactborges"
+    <img src="
 </div>
 
 <br />
