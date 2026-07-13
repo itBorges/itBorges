@@ -65,7 +65,7 @@
       <circle cx="24" cy="24" r="6" fill="#ff5f56"/>
       <circle cx="46" cy="24" r="6" fill="#ffbd2e"/>
       <circle cx="68" cy="24" r="6" fill="#27c93f"/>
-      <text x="536" y="29" text-anchor="middle" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="13">isaac@github: ~/backend</text>
+      <text x="536" y="29" text-anchor="middle" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="13">isaac: ~/backend</text>
 
       <g transform="translate(44 82)">
         <text x="0" y="0" fill="#3fb950" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" letter-spacing="2">OLÁ, EU SOU</text>
