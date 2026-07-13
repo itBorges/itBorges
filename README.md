@@ -25,7 +25,7 @@
 
 ## Sobre
 
-Olá! Eu sou **Isaac Till Borges**, de **Blumenau–SC**. Atualmente, desenvolvo uma plataforma B2B para gerenciamento de pedidos e transformo regras de negócio em uma base backend organizada com **Java**, **Spring Boot** e **PostgreSQL**.
+Olá! Eu sou **Isaac Till Borges**, de **Blumenau–SC**. Atualmente, desenvolvo umm projeto individual B2B para gerenciamento de pedidos e transformo regras de negócio em uma base backend organizada com **Java**, **Spring Boot** e **PostgreSQL**.
 
 <table>
   <tr>
