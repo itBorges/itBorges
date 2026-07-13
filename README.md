@@ -1,8 +1,3 @@
-<!--
-  README de perfil criado para github.com/itBorges
-  Para publicar, este arquivo deve ficar na raiz do repositório público itBorges/itBorges.
--->
-
 <div align="center">
   <img src="./assets/profile-header.svg" width="100%" alt="Isaac Till Borges — desenvolvimento backend com Java e Spring Boot" />
 
@@ -25,7 +20,7 @@
 
 ## Sobre
 
-Olá! Eu sou **Isaac Till Borges**, de **Blumenau–SC**. Atualmente, desenvolvo umm projeto individual B2B para gerenciamento de pedidos e transformo regras de negócio em uma base backend organizada com **Java**, **Spring Boot** e **PostgreSQL**.
+Olá! Eu sou **Isaac Till Borges**, de **Blumenau–SC**. Atualmente, desenvolvo um projeto individual B2B para gerenciamento de pedidos e transformo regras de negócio em uma base backend organizada com **Java**, **Spring Boot** e **PostgreSQL** enquanto curso o **+Devs2Blu**.
 
 <table>
   <tr>
