@@ -147,7 +147,7 @@ Encontre-me por aqui:
     <img src="https://img.shields.io/badge/Explorar-reposit%C3%B3rios-0969DA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositórios de itBorges" />
   </a>
   <a href="https://br.linkedin.com/in/isaactborges"
-    <img src="assets/linkedin.png" alt="Linkedin/>
+    <img src="assets/linkedin.png" alt="Linkedin" />
   </a>
 </div>
 
