@@ -155,5 +155,4 @@ Encontre-me por aqui:
 
 <div align="center">
   <sub>Blumenau · Santa Catarina · Brasil</sub>
-  <br />
 </div>
