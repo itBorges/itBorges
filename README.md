@@ -146,8 +146,8 @@ Encontre-me por aqui:
   <a href="https://github.com/itBorges?tab=repositories">
     <img src="https://img.shields.io/badge/Explorar-reposit%C3%B3rios-0969DA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositórios de itBorges" />
   </a>
-  <a href="https://br.linkedin.com/in/isaactborges"
-    <img src="assets/linkedin.png" alt="Linkedin" />
+  <a href="https://br.linkedin.com/in/isaactborges">
+    <img src="https://img.shields.io/badge/LinkedIn-isaactborges-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de itBorges" />
   </a>
 </div>
 
