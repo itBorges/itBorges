@@ -141,13 +141,15 @@ Encontre-me por aqui:
 
 <div align="center">
   <a href="https://github.com/itBorges">
-    <img src="https://img.shields.io/badge/GitHub-@itBorges-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Perfil de itBorges no GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <a href="https://github.com/itBorges?tab=repositories">
-    <img src="https://img.shields.io/badge/Explorar-reposit%C3%B3rios-0969DA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositórios de itBorges" />
+    <img src="https://img.shields.io/badge/Projetos-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" />
   </a>
+
   <a href="https://br.linkedin.com/in/isaactborges">
-    <img src="https://img.shields.io/badge/LinkedIn-isaactborges-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de itBorges" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
