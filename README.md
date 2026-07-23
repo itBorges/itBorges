@@ -17,7 +17,7 @@
 - 🔭 **Agora:** desenvolvendo o
   [**gestao-b2b**](https://github.com/itBorges/gestao-b2b), um projeto
   individual para gerenciamento do ciclo comercial entre empresas.
-- 🎓 **Formação:** Entra21 e cursando o **+Devs2Blu**.
+- 🎓 **Formação:** **Entra21** e cursando o **+Devs2Blu**.
 - 🌱 **Em evolução:** APIs REST, modelagem de domínio, persistência relacional,
   segurança, validação e observabilidade.
 
