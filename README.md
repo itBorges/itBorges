@@ -10,18 +10,14 @@
 
 <p align="center">
   <strong>Desenvolvedor backend em formação</strong><br />
-  Construindo soluções claras, seguras e preparadas para evoluir.
 </p>
 
 ## Sobre mim
 
-Sou de **Blumenau, SC**, e gosto de transformar regras de negócio em código
-previsível, fácil de entender e simples de manter.
-
 - 🔭 **Agora:** desenvolvendo o
   [**gestao-b2b**](https://github.com/itBorges/gestao-b2b), um projeto
   individual para gerenciamento do ciclo comercial entre empresas.
-- 🎓 **Formação:** cursando o **+Devs2Blu**.
+- 🎓 **Formação:** Entra21 e cursando o **+Devs2Blu**.
 - 🌱 **Em evolução:** APIs REST, modelagem de domínio, persistência relacional,
   segurança, validação e observabilidade.
 
@@ -110,7 +106,7 @@ Neste projeto, estou colocando em prática:
 
 ## Contato
 
-Se quiser conversar sobre **Java**, **backend** ou o projeto, me encontre no
+Me encontre no
 LinkedIn:
 
 <p>
