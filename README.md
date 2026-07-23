@@ -1,43 +1,33 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Isaac Till Borges — desenvolvimento backend com Java e Spring Boot" />
-
-  <br />
-
-  <a href="#sobre"><strong>Sobre</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#stack"><strong>Stack</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#projeto"><strong>Projeto</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#atividade"><strong>Atividade</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#contato"><strong>Contato</strong></a>
-
-  <br /><br />
-
-  <em>Construindo soluções backend claras, seguras e preparadas para evoluir.</em>
+  <img
+    src="./assets/profile-header.svg"
+    width="100%"
+    alt="Banner sobre desenvolvimento backend: regras de negócio, código que evolui"
+  />
 </div>
 
-## Sobre
+<h1 align="center">Isaac Till Borges</h1>
 
-Olá! Eu sou **Isaac Till Borges**, de **Blumenau–SC**. Atualmente, desenvolvo um projeto individual B2B para gerenciamento de pedidos e transformo regras de negócio em uma base backend organizada com **Java**, **Spring Boot** e **PostgreSQL** enquanto curso o **+Devs2Blu**.
+<p align="center">
+  <strong>Desenvolvedor backend em formação</strong><br />
+  Construindo soluções claras, seguras e preparadas para evoluir.
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Agora</h3>
-      <p>Evoluindo o <a href="https://github.com/itBorges/gestao-b2b"><strong>gestao-b2b</strong></a>, da fundação técnica às funcionalidades de negócio.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Em evolução</h3>
-      <p>APIs REST, modelagem de domínio, persistência relacional, segurança, validação e observabilidade.</p>
-    </td>
-  </tr>
-</table>
+## Sobre mim
+
+Sou de **Blumenau, SC**, e gosto de transformar regras de negócio em código
+previsível, fácil de entender e simples de manter.
+
+- 🔭 **Agora:** desenvolvendo o
+  [**gestao-b2b**](https://github.com/itBorges/gestao-b2b), um projeto
+  individual para gerenciamento do ciclo comercial entre empresas.
+- 🎓 **Formação:** cursando o **+Devs2Blu**.
+- 🌱 **Em evolução:** APIs REST, modelagem de domínio, persistência relacional,
+  segurança, validação e observabilidade.
 
 ## Stack
 
-<div align="center">
+<p align="center">
   <a href="https://dev.java/" title="Java">
     <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java 17" />
   </a>
@@ -47,11 +37,14 @@ Olá! Eu sou **Isaac Till Borges**, de **Blumenau–SC**. Atualmente, desenvolvo
   <a href="https://spring.io/projects/spring-security" title="Spring Security">
     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security" />
   </a>
+  <a href="https://hibernate.org/orm/" title="JPA e Hibernate">
+    <img src="https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=flat-square&amp;logo=hibernate&amp;logoColor=white" alt="JPA e Hibernate" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.postgresql.org/" title="PostgreSQL">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://hibernate.org/orm/" title="Hibernate">
-    <img src="https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=flat-square&amp;logo=hibernate&amp;logoColor=white" alt="JPA e Hibernate" />
   </a>
   <a href="https://documentation.red-gate.com/flyway" title="Flyway">
     <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&amp;logo=flyway&amp;logoColor=white" alt="Flyway" />
@@ -62,52 +55,32 @@ Olá! Eu sou **Isaac Till Borges**, de **Blumenau–SC**. Atualmente, desenvolvo
   <a href="https://git-scm.com/" title="Git">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
   </a>
-</div>
+</p>
 
-## Projeto
+## Projeto em destaque
 
-<table>
-  <tr>
-    <td width="66%" valign="top">
-      <h3><a href="https://github.com/itBorges/gestao-b2b">gestao-b2b</a></h3>
-      <p>Plataforma B2B para gerenciamento de pedidos, construída como um backend preparado para crescer junto com as regras do negócio.</p>
-      <p>
-        <a href="https://github.com/itBorges/gestao-b2b"><strong>Explorar o código →</strong></a>
-      </p>
-    </td>
-    <td width="34%" valign="top">
-      <strong>Base técnica</strong><br /><br />
-      <code>Java 17</code> · <code>Spring Boot</code><br />
-      <code>PostgreSQL</code> · <code>JPA</code><br />
-      <code>Flyway</code> · <code>Maven</code>
-    </td>
-  </tr>
-</table>
+### gestao-b2b
 
-<p align="center">
+Backend em desenvolvimento para organizar o ciclo comercial B2B — de clientes
+e propostas às aprovações e pedidos — sobre uma base preparada para regras de
+negócio reais.
+
+<p>
+  <img src="https://img.shields.io/badge/status-em_desenvolvimento-238636?style=flat-square" alt="Status: em desenvolvimento" />
   <a href="https://github.com/itBorges/gestao-b2b/commits">
-    <img src="https://img.shields.io/github/last-commit/itBorges/gestao-b2b?style=flat-square&amp;label=%C3%BAltimo%20commit&amp;color=3fb950" alt="Último commit do gestao-b2b" />
-  </a>
-  <a href="https://github.com/itBorges/gestao-b2b">
-    <img src="https://img.shields.io/github/languages/top/itBorges/gestao-b2b?style=flat-square&amp;color=f89820" alt="Principal linguagem do gestao-b2b" />
-  </a>
-  <a href="https://github.com/itBorges/gestao-b2b">
-    <img src="https://img.shields.io/github/repo-size/itBorges/gestao-b2b?style=flat-square&amp;label=tamanho&amp;color=58a6ff" alt="Tamanho do repositório gestao-b2b" />
+    <img src="https://img.shields.io/github/last-commit/itBorges/gestao-b2b?style=flat-square&amp;label=%C3%BAltimo%20commit&amp;color=58a6ff" alt="Último commit do gestao-b2b" />
   </a>
 </p>
 
-<details>
-  <summary><strong>Ver o que estou praticando neste projeto</strong></summary>
+Neste projeto, estou colocando em prática:
 
-  <br />
+- modelagem de domínio e persistência com Spring Data JPA;
+- evolução segura do banco de dados com PostgreSQL e Flyway;
+- preparação da API para autenticação, autorização e validação;
+- observabilidade com Spring Boot Actuator;
+- fluxo de trabalho com branches, pull requests e Conventional Commits.
 
-  - Estruturação de uma API REST com contexto versionável em `/api`.
-  - Modelagem de entidades e persistência com Spring Data JPA.
-  - Evolução segura do banco de dados com migrations do Flyway.
-  - Preparação para autenticação, autorização e validação de entrada.
-  - Observabilidade da aplicação com Spring Boot Actuator.
-  - Fluxo de desenvolvimento com branches, pull requests e Conventional Commits.
-</details>
+[Explorar o código e acompanhar a evolução →](https://github.com/itBorges/gestao-b2b)
 
 ## Atividade
 
@@ -137,24 +110,15 @@ Olá! Eu sou **Isaac Till Borges**, de **Blumenau–SC**. Atualmente, desenvolvo
 
 ## Contato
 
-Encontre-me por aqui:
+Se quiser conversar sobre **Java**, **backend** ou o projeto, me encontre no
+LinkedIn:
 
-<div align="center">
-  <a href="https://github.com/itBorges">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://github.com/itBorges?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" />
-  </a>
-
+<p>
   <a href="https://br.linkedin.com/in/isaactborges">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Perfil de Isaac Till Borges no LinkedIn" />
   </a>
-</div>
+</p>
 
-<br />
-
-<div align="center">
+<p align="center">
   <sub>Blumenau · Santa Catarina · Brasil</sub>
-</div>
+</p>
